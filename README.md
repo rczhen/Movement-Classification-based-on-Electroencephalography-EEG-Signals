@@ -9,4 +9,6 @@ Final project for ECE239AS Deep Learning and Neural Network at UCLA, Winter 2019
 
 - Dataset description: http://www.bbci.de/competition/iv/desc_2a.pdf
 
+- The original dataset can be found through http://www.bbci.de/competition/iv/. The actual dataset we use for this project is reformatted by the instructor, and "these datasets are internal for this class and should not be distributed". 
+
 - Reference Paper for CNN Architecture: https://arxiv.org/pdf/1703.05051.pdf
